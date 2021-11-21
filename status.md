@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Dylan Tran
 
 #### Your section leader's name
 
-TODO
+Joanne Nichols
 
 #### Project title
 
-TODO
+My_Game_Site
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have learned HTML, CSS, and JavaScript.
 
 #### What have you not done for your project yet?
 
-TODO
+Create the games to host on the website.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None so far.
